@@ -65,9 +65,9 @@ This document defines how to export project work from Adobe CC programs for in-p
 ## After Effects (Video)
  1. [...]
  2.  
-
 |||
 |-|-|
-|**A**|`x`|
-|**B**|`y`|
+|**Format**|`H.264 (.mp4)`|
+|**Process Video Preset**|`Match Source - Medium bitrate`|
+|**Final Video Preset**|`Match Source - High bitrate`|
 |||
