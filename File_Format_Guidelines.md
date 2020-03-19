@@ -1,7 +1,10 @@
 
 # File Format Guidelines
 This document defines how to export project work from Adobe CC programs for in-progress review.
-[InDesign](#indesign-print) - [Illustrator](#illustrator-vector) - [Photoshop](#photoshop-raster) - [After Effects](#after-effects-video)
+ - [InDesign](#indesign-print) 
+ - [Illustrator](#illustrator-vector) 
+ - [Photoshop](#photoshop-raster) 
+ - [After Effects](#after-effects-video)
 
 
 ## InDesign (Print)
