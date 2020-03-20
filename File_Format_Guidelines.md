@@ -63,8 +63,8 @@ This document defines how to export project work from Adobe CC programs for in-p
 
 
 ## After Effects (Video)
- 1. [...]
- 2.  
+Under "Export Settings", choose the following presets for in-process work, and final hand-in quality.
+
 |||
 |-|-|
 |**Format**|`H.264 (.mp4)`|
